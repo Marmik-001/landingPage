@@ -10,7 +10,7 @@ export default defineConfig({
     // reactRefresh(),
     // reactIcons(),
   ],
-});
+})
 
 
 
